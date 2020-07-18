@@ -2,7 +2,7 @@
 
 echo 'init process'
 
-MYSQL="mysql -u isucon -p isucon"
+MYSQL="mysql -u isucon -p"
 
 $MYSQL <<EOF
 USE isucon;
